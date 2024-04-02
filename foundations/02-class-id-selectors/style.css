@@ -1,0 +1,19 @@
+.first {
+    background-color: #e64978;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: #4141d6;
+    font-size: 36px;
+}
+
+.first.cooler {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
